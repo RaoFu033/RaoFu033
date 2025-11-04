@@ -24,74 +24,79 @@
 <a href="https://www.linkedin.com/in/raofu0297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raofu0297/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
+<h3 align="left">Tech Stack</h3>
 
-  <!-- Programming / Data Stack (skillicons) -->
+<!-- Data & Analytics -->
+<p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Databases -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- Microsoft / Power Platform / Business Tools (Simple Icons) -->
+<!-- Power Platform & Microsoft 365 -->
+<p>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
   </a>
   <a href="https://learn.microsoft.com/power-automate/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerautomate/0066FF" alt="Power Automate" width="40" height="40"/>
-  </a>
-  <a href="https://dynamics.microsoft.com/dynamics365/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftdynamics365/002050" alt="Dynamics 365" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftsharepoint/0377BD" alt="SharePoint" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365/project" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftproject/217346" alt="MS Project" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
   </a>
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerapps/742774" alt="Power Apps" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
   </a>
+  <a href="https://dynamics.microsoft.com/dynamics365/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SharePoint-0377BD?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/project" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Tooling -->
+<!-- Databases -->
+<p>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Dev Tools -->
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   </a>
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   </a>
-
 </p>
 
 
