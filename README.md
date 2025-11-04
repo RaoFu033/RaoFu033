@@ -25,78 +25,85 @@
 </p>
 
 <h3 align="left">Tech Stack</h3>
+<p><em>Core tools I use most often</em></p>
 
-<!-- Data & Analytics -->
+<!-- Data & Analytics — blue/green family -->
+<h4>Data &amp; Analytics</h4>
+<p><em>Modeling, notebooks, data wrangling</em></p>
 <p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-2EC4B6?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-4361EE?style=for-the-badge&logo=r&logoColor=white"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-3A0CA3?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-4895EF?style=for-the-badge&logo=numpy&logoColor=white"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-4CC9F0?style=for-the-badge&logo=jupyter&logoColor=white"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Anaconda-2A9D8F?style=for-the-badge&logo=anaconda&logoColor=white"/>
   </a>
 </p>
 
-<!-- Power Platform & Microsoft 365 -->
+<!-- Power Platform & Microsoft 365 — red/yellow family -->
+<h4>Power Platform &amp; Microsoft 365</h4>
+<p><em>BI, automation, apps, and collaboration</em></p>
 <p>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
   </a>
   <a href="https://learn.microsoft.com/power-automate/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20Automate-FF7F11?style=for-the-badge&logo=powerautomate&logoColor=white"/>
   </a>
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20Apps-F9844A?style=for-the-badge&logo=powerapps&logoColor=white"/>
   </a>
   <a href="https://dynamics.microsoft.com/dynamics365/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dynamics%20365-E76F51?style=for-the-badge&logo=microsoftdynamics365&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Excel-E63946?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SharePoint-0377BD?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SharePoint-F4A261?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/project" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MS%20Project-FB5607?style=for-the-badge&logo=microsoftproject&logoColor=white"/>
   </a>
 </p>
 
-<!-- Databases -->
+<!-- Databases — pink/purple family -->
+<h4>Databases</h4>
+<p><em>Transactional stores &amp; analytics backends</em></p>
 <p>
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-D81B60?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-9C27B0?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 </p>
 
-<!-- Dev Tools -->
+<!-- Dev Tools — assorted colors -->
+<h4>Dev Tools</h4>
+<p><em>Version control, IDE, shell</em></p>
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-FF3D00?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS%20Code-3A86FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   </a>
   <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerShell-6D597A?style=for-the-badge&logo=powershell&logoColor=white"/>
   </a>
 </p>
-
-
